@@ -21,6 +21,6 @@ CMD ["./sales-api"]
 LABEL  org.opencontainers.image.created="${BUILD_DATE}" \
         org.opencontainers.image.title="sales-api" \
         org.opencontainers.image.authors="Seyyed sina" \
-        org.opencontainers.image.source="https://github.com/seyyedsina/service" \
+        org.opencontainers.image.source="https://github.com/seyyedsina/go-service" \
         org.opencontainers.image.revision="${VCS_REF}" \
         org.opencontainers.image.vendor="Seyyed"
